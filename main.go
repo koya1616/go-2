@@ -1,5 +1,7 @@
 package main
 // https://qiita.com/kohama66/items/735e70e6e3215942b02f
+// https://qiita.com/advent-calendar/2021/go
+// https://qiita.com/akif999/items/354e9e6fb6cd35aa4801
 
 import (
 	"database/sql"
